@@ -1,0 +1,336 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ServiceStack/3.9.71": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Common": "[3.0.0, 4.0.0)",
+          "ServiceStack.OrmLite.SqlServer": "[3.0.0, 4.0.0)",
+          "ServiceStack.Redis": "[3.0.0, 4.0.0)"
+        },
+        "compile": {
+          "lib/net35/ServiceStack.ServiceInterface.dll": {},
+          "lib/net35/ServiceStack.dll": {}
+        },
+        "runtime": {
+          "lib/net35/ServiceStack.ServiceInterface.dll": {},
+          "lib/net35/ServiceStack.dll": {}
+        }
+      },
+      "ServiceStack.Common/3.9.71": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Text": "[3.0.0, 4.0.0)"
+        },
+        "compile": {
+          "lib/net35/ServiceStack.Common.dll": {},
+          "lib/net35/ServiceStack.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/net35/ServiceStack.Common.dll": {},
+          "lib/net35/ServiceStack.Interfaces.dll": {}
+        }
+      },
+      "ServiceStack.OrmLite.SqlServer/3.9.71": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Common": "[3.0.0, 4.0.0)"
+        },
+        "compile": {
+          "lib/net35/ServiceStack.OrmLite.SqlServer.dll": {},
+          "lib/net35/ServiceStack.OrmLite.dll": {}
+        },
+        "runtime": {
+          "lib/net35/ServiceStack.OrmLite.SqlServer.dll": {},
+          "lib/net35/ServiceStack.OrmLite.dll": {}
+        }
+      },
+      "ServiceStack.Redis/3.9.71": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Common": "[3.0.0, 4.0.0)"
+        },
+        "compile": {
+          "lib/net35/ServiceStack.Redis.dll": {}
+        },
+        "runtime": {
+          "lib/net35/ServiceStack.Redis.dll": {}
+        }
+      },
+      "ServiceStack.Text/3.9.71": {
+        "type": "package",
+        "compile": {
+          "lib/net35/ServiceStack.Text.dll": {}
+        },
+        "runtime": {
+          "lib/net35/ServiceStack.Text.dll": {}
+        }
+      },
+      "api/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/api.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/api.dll": {}
+        }
+      },
+      "model/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServiceStack/3.9.71": {
+      "sha512": "G6shF+9Wc8yO32vpiLCXP9zl0F2d4pDxaNmtFl4QpQMUSPdD589DRWQm9xfg/k4g2K9ANjOAAecZcAFi9SsDNQ==",
+      "type": "package",
+      "path": "servicestack/3.9.71",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/ServiceStack.ServiceInterface.dll",
+        "lib/net35/ServiceStack.dll",
+        "lib/net35/ServiceStack.xml",
+        "servicestack.3.9.71.nupkg.sha512",
+        "servicestack.nuspec"
+      ]
+    },
+    "ServiceStack.Common/3.9.71": {
+      "sha512": "t1OPES9kUwtuhvVBRd9MZyOX0WgAMX2WO/mbmzBXFptofoep5vxGBBu5xg+TGeMzc9o+lA1YpOfQCZoCeMn0+g==",
+      "type": "package",
+      "path": "servicestack.common/3.9.71",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/ServiceStack.Common.XML",
+        "lib/net35/ServiceStack.Common.dll",
+        "lib/net35/ServiceStack.Interfaces.dll",
+        "lib/net35/ServiceStack.Interfaces.xml",
+        "lib/sl4/README.txt",
+        "lib/sl5/README.txt",
+        "lib/sl5/ServiceStack.Common.dll",
+        "lib/sl5/ServiceStack.Common.xml",
+        "lib/sl5/ServiceStack.Interfaces.dll",
+        "lib/sl5/ServiceStack.Interfaces.xml",
+        "servicestack.common.3.9.71.nupkg.sha512",
+        "servicestack.common.nuspec"
+      ]
+    },
+    "ServiceStack.OrmLite.SqlServer/3.9.71": {
+      "sha512": "SiaJwth66mZdcY8bLNbFQlJYx145+uj3MyW7jzXtrOFlpIllMFQ4gDMachF9q+7/iz8+rlfP6vJTDb286Yu6iQ==",
+      "type": "package",
+      "path": "servicestack.ormlite.sqlserver/3.9.71",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/ServiceStack.OrmLite.SqlServer.dll",
+        "lib/net35/ServiceStack.OrmLite.dll",
+        "servicestack.ormlite.sqlserver.3.9.71.nupkg.sha512",
+        "servicestack.ormlite.sqlserver.nuspec"
+      ]
+    },
+    "ServiceStack.Redis/3.9.71": {
+      "sha512": "+JR9xUX5Ksp5Wnd1x0EZ9O2V3f7dOiT8waQGIi0NHWUH1NVaR1js3Gl37xZHC5lqCqBwyDSsqpKRknPfMTxKtQ==",
+      "type": "package",
+      "path": "servicestack.redis/3.9.71",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/ServiceStack.Redis.XML",
+        "lib/net35/ServiceStack.Redis.dll",
+        "servicestack.redis.3.9.71.nupkg.sha512",
+        "servicestack.redis.nuspec"
+      ]
+    },
+    "ServiceStack.Text/3.9.71": {
+      "sha512": "+nIZF3d2o50W4/DjtfN21AzH1shaRlEiixgFISx3v5WD4WJVRd3WLmW75+SIiPOnCQAoZ+zbGX91hrBNkx+7xg==",
+      "type": "package",
+      "path": "servicestack.text/3.9.71",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/ServiceStack.Text.XML",
+        "lib/net35/ServiceStack.Text.dll",
+        "lib/sl4-windowsphone71/ServiceStack.Text.WP.XML",
+        "lib/sl4-windowsphone71/ServiceStack.Text.WP.dll",
+        "lib/sl4/ServiceStack.Text.dll",
+        "lib/sl4/ServiceStack.Text.xml",
+        "lib/sl5/ServiceStack.Text.XML",
+        "lib/sl5/ServiceStack.Text.dll",
+        "servicestack.text.3.9.71.nupkg.sha512",
+        "servicestack.text.nuspec"
+      ]
+    },
+    "api/1.0.0": {
+      "type": "project",
+      "path": "../api/api.csproj",
+      "msbuildProject": "../api/api.csproj"
+    },
+    "model/1.0.0": {
+      "type": "project",
+      "path": "../model/model.csproj",
+      "msbuildProject": "../model/model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "ServiceStack >= 3.9.71",
+      "ServiceStack.Common >= 3.9.71",
+      "ServiceStack.OrmLite.SqlServer >= 3.9.71",
+      "ServiceStack.Redis >= 3.9.71",
+      "ServiceStack.Text >= 3.9.71",
+      "api >= 1.0.0",
+      "model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\GT63\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\console\\console.csproj",
+      "projectName": "console",
+      "projectPath": "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\console\\console.csproj",
+      "packagesPath": "C:\\Users\\GT63\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\console\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\GT63\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\api\\api.csproj": {
+              "projectPath": "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\api\\api.csproj"
+            },
+            "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\model\\model.csproj": {
+              "projectPath": "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\model\\model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "dependencies": {
+          "ServiceStack": {
+            "target": "Package",
+            "version": "[3.9.71, )"
+          },
+          "ServiceStack.Common": {
+            "target": "Package",
+            "version": "[3.9.71, )"
+          },
+          "ServiceStack.OrmLite.SqlServer": {
+            "target": "Package",
+            "version": "[3.9.71, )"
+          },
+          "ServiceStack.Redis": {
+            "target": "Package",
+            "version": "[3.9.71, )"
+          },
+          "ServiceStack.Text": {
+            "target": "Package",
+            "version": "[3.9.71, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ServiceStack 3.9.71' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ServiceStack",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ServiceStack.Common 3.9.71' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ServiceStack.Common",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ServiceStack.OrmLite.SqlServer 3.9.71' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ServiceStack.OrmLite.SqlServer",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ServiceStack.Redis 3.9.71' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ServiceStack.Redis",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ServiceStack.Text 3.9.71' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ServiceStack.Text",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\console\\console.csproj": {}
+  },
+  "projects": {
+    "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\api\\api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\api\\api.csproj",
+        "projectName": "api",
+        "projectPath": "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\api\\api.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\model\\model.csproj": {
+                "projectPath": "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\model\\model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\console\\console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\console\\console.csproj",
+        "projectName": "console",
+        "projectPath": "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\console\\console.csproj",
+        "packagesPath": "C:\\Users\\GT63\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\console\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GT63\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\api\\api.csproj": {
+                "projectPath": "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\api\\api.csproj"
+              },
+              "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\model\\model.csproj": {
+                "projectPath": "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\model\\model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "ServiceStack": {
+              "target": "Package",
+              "version": "[5.8.0, )"
+            },
+            "ServiceStack.Common": {
+              "target": "Package",
+              "version": "[3.9.71, )"
+            },
+            "ServiceStack.OrmLite.SqlServer": {
+              "target": "Package",
+              "version": "[3.9.71, )"
+            },
+            "ServiceStack.Redis": {
+              "target": "Package",
+              "version": "[3.9.71, )"
+            },
+            "ServiceStack.Text": {
+              "target": "Package",
+              "version": "[3.9.71, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\model\\model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\model\\model.csproj",
+        "projectName": "model",
+        "projectPath": "D:\\C#\\Programming\\C# practice\\MVC\\First Project for Ivan\\Library\\model\\model.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

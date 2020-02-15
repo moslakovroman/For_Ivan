@@ -1,0 +1,39 @@
+﻿@model List<model.db.Address>
+
+
+<div class="orderscontent container">
+    
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">Индекс</th>
+                <th scope="col">Город</th>
+                <th scope="col">Квартал</th>
+                <th scope="col">Улица</th>
+                <th scope="col">Дом</th>
+                <th scope="col">Активна</th>
+                <th scope="col">Дата создания</th>
+                <th scope="col">Дата изменения</th>
+
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @*<th scope="row">1</th>*@
+                <td>@item.ZipCode</td>
+                <td>@item.Town</td>
+                <td>@item.Quarter</td>
+                <td>@item.Street</td>
+                <td>@item.House</td>
+                <td>@(item.Active ? "да" : "нет")</td>
+                <td>@item.Created</td>
+                <td>@item.Updated</td>
+            </tr>
+        }
+
+        </tbody>
+    </table>
+
+</div>

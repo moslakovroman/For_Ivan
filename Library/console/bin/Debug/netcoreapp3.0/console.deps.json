@@ -1,0 +1,156 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "console/1.0.0": {
+        "dependencies": {
+          "ServiceStack": "3.9.71",
+          "ServiceStack.Common": "3.9.71",
+          "ServiceStack.OrmLite.SqlServer": "3.9.71",
+          "ServiceStack.Redis": "3.9.71",
+          "ServiceStack.Text": "3.9.71",
+          "api": "1.0.0",
+          "model": "1.0.0"
+        },
+        "runtime": {
+          "console.dll": {}
+        }
+      },
+      "ServiceStack/3.9.71": {
+        "dependencies": {
+          "ServiceStack.Common": "3.9.71",
+          "ServiceStack.OrmLite.SqlServer": "3.9.71",
+          "ServiceStack.Redis": "3.9.71"
+        },
+        "runtime": {
+          "lib/net35/ServiceStack.ServiceInterface.dll": {
+            "assemblyVersion": "3.9.71.0",
+            "fileVersion": "3.9.71.0"
+          },
+          "lib/net35/ServiceStack.dll": {
+            "assemblyVersion": "3.9.71.0",
+            "fileVersion": "3.9.71.0"
+          }
+        }
+      },
+      "ServiceStack.Common/3.9.71": {
+        "dependencies": {
+          "ServiceStack.Text": "3.9.71"
+        },
+        "runtime": {
+          "lib/net35/ServiceStack.Common.dll": {
+            "assemblyVersion": "3.9.71.0",
+            "fileVersion": "3.9.71.0"
+          },
+          "lib/net35/ServiceStack.Interfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ServiceStack.OrmLite.SqlServer/3.9.71": {
+        "dependencies": {
+          "ServiceStack.Common": "3.9.71"
+        },
+        "runtime": {
+          "lib/net35/ServiceStack.OrmLite.SqlServer.dll": {
+            "assemblyVersion": "3.9.71.0",
+            "fileVersion": "3.9.71.0"
+          },
+          "lib/net35/ServiceStack.OrmLite.dll": {
+            "assemblyVersion": "3.9.71.0",
+            "fileVersion": "3.9.71.0"
+          }
+        }
+      },
+      "ServiceStack.Redis/3.9.71": {
+        "dependencies": {
+          "ServiceStack.Common": "3.9.71"
+        },
+        "runtime": {
+          "lib/net35/ServiceStack.Redis.dll": {
+            "assemblyVersion": "3.9.71.0",
+            "fileVersion": "3.9.71.0"
+          }
+        }
+      },
+      "ServiceStack.Text/3.9.71": {
+        "runtime": {
+          "lib/net35/ServiceStack.Text.dll": {
+            "assemblyVersion": "3.9.71.0",
+            "fileVersion": "3.9.71.0"
+          }
+        }
+      },
+      "api/1.0.0": {
+        "dependencies": {
+          "model": "1.0.0"
+        },
+        "runtime": {
+          "api.dll": {}
+        }
+      },
+      "model/1.0.0": {
+        "runtime": {
+          "model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceStack/3.9.71": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G6shF+9Wc8yO32vpiLCXP9zl0F2d4pDxaNmtFl4QpQMUSPdD589DRWQm9xfg/k4g2K9ANjOAAecZcAFi9SsDNQ==",
+      "path": "servicestack/3.9.71",
+      "hashPath": "servicestack.3.9.71.nupkg.sha512"
+    },
+    "ServiceStack.Common/3.9.71": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t1OPES9kUwtuhvVBRd9MZyOX0WgAMX2WO/mbmzBXFptofoep5vxGBBu5xg+TGeMzc9o+lA1YpOfQCZoCeMn0+g==",
+      "path": "servicestack.common/3.9.71",
+      "hashPath": "servicestack.common.3.9.71.nupkg.sha512"
+    },
+    "ServiceStack.OrmLite.SqlServer/3.9.71": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SiaJwth66mZdcY8bLNbFQlJYx145+uj3MyW7jzXtrOFlpIllMFQ4gDMachF9q+7/iz8+rlfP6vJTDb286Yu6iQ==",
+      "path": "servicestack.ormlite.sqlserver/3.9.71",
+      "hashPath": "servicestack.ormlite.sqlserver.3.9.71.nupkg.sha512"
+    },
+    "ServiceStack.Redis/3.9.71": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+JR9xUX5Ksp5Wnd1x0EZ9O2V3f7dOiT8waQGIi0NHWUH1NVaR1js3Gl37xZHC5lqCqBwyDSsqpKRknPfMTxKtQ==",
+      "path": "servicestack.redis/3.9.71",
+      "hashPath": "servicestack.redis.3.9.71.nupkg.sha512"
+    },
+    "ServiceStack.Text/3.9.71": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+nIZF3d2o50W4/DjtfN21AzH1shaRlEiixgFISx3v5WD4WJVRd3WLmW75+SIiPOnCQAoZ+zbGX91hrBNkx+7xg==",
+      "path": "servicestack.text/3.9.71",
+      "hashPath": "servicestack.text.3.9.71.nupkg.sha512"
+    },
+    "api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

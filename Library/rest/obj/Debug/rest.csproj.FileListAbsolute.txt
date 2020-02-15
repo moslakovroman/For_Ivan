@@ -1,0 +1,206 @@
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\rest.dll.config
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\rest.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\rest.pdb
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\csc.exe
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\csc.exe.config
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\csc.rsp
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\csi.exe
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\csi.exe.config
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\csi.rsp
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\Microsoft.Managed.Core.targets
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.AppContext.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Collections.Immutable.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Console.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.IO.Compression.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.IO.FileSystem.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.IO.Pipes.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Reflection.Metadata.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Security.AccessControl.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Security.Claims.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Security.Principal.Windows.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.ValueTuple.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Xml.XmlDocument.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Xml.XPath.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\vbc.exe
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\vbc.exe.config
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\vbc.rsp
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\VBCSCompiler.exe
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\roslyn\VBCSCompiler.exe.config
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\Antlr3.Runtime.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\api.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\AutoMapper.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\BouncyCastle.Crypto.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\Google.Protobuf.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\Microsoft.Web.Infrastructure.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\model.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\MySql.Data.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\Newtonsoft.Json.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\Renci.SshNet.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\ServiceStack.Common.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\ServiceStack.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\ServiceStack.FluentValidation.Mvc3.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\ServiceStack.Interfaces.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\ServiceStack.OrmLite.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\ServiceStack.OrmLite.MySql.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\ServiceStack.OrmLite.SqlServer.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\ServiceStack.Redis.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\ServiceStack.ServiceInterface.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\ServiceStack.Text.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\System.Web.Helpers.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\System.Web.Mvc.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\System.Web.Optimization.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\System.Web.Razor.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\System.Web.WebPages.Deployment.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\System.Web.WebPages.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\System.Web.WebPages.Razor.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\WebGrease.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\api.pdb
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\api.dll.config
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\model.pdb
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\AutoMapper.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\Google.Protobuf.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\Renci.SshNet.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\ServiceStack.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\ServiceStack.Common.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\ServiceStack.Interfaces.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\ServiceStack.Redis.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\ServiceStack.Text.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\System.Web.Helpers.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\System.Web.Mvc.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\System.Web.Razor.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\System.Web.WebPages.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\System.Web.WebPages.Deployment.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\System.Web.WebPages.Razor.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\System.Web.Optimization.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\Newtonsoft.Json.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\Antlr3.Runtime.pdb
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\obj\Debug\rest.csprojAssemblyReference.cache
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\obj\Debug\rest.csproj.CopyComplete
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\obj\Debug\rest.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\rest\obj\Debug\rest.pdb
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\rest.dll.config
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\rest.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\rest.pdb
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\csc.exe
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\csc.exe.config
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\csc.rsp
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\csi.exe
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\csi.exe.config
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\csi.rsp
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\Microsoft.Managed.Core.targets
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.AppContext.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Collections.Immutable.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Console.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.IO.Compression.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.IO.FileSystem.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.IO.Pipes.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Reflection.Metadata.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Security.AccessControl.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Security.Claims.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Security.Principal.Windows.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.ValueTuple.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Xml.XmlDocument.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Xml.XPath.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\vbc.exe
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\vbc.exe.config
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\vbc.rsp
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\VBCSCompiler.exe
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\roslyn\VBCSCompiler.exe.config
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\Antlr3.Runtime.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\api.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\AutoMapper.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\BouncyCastle.Crypto.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\Google.Protobuf.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\Microsoft.Web.Infrastructure.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\model.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\MySql.Data.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\Newtonsoft.Json.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\Renci.SshNet.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\ServiceStack.Common.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\ServiceStack.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\ServiceStack.FluentValidation.Mvc3.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\ServiceStack.Interfaces.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\ServiceStack.OrmLite.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\ServiceStack.OrmLite.MySql.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\ServiceStack.OrmLite.SqlServer.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\ServiceStack.Redis.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\ServiceStack.ServiceInterface.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\ServiceStack.Text.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\System.Web.Helpers.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\System.Web.Mvc.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\System.Web.Optimization.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\System.Web.Razor.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\System.Web.WebPages.Deployment.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\System.Web.WebPages.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\System.Web.WebPages.Razor.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\WebGrease.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\api.pdb
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\api.dll.config
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\model.pdb
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\AutoMapper.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\Google.Protobuf.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\Renci.SshNet.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\ServiceStack.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\ServiceStack.Common.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\ServiceStack.Interfaces.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\ServiceStack.Redis.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\ServiceStack.Text.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\System.Web.Helpers.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\System.Web.Mvc.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\System.Web.Razor.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\System.Web.WebPages.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\System.Web.WebPages.Deployment.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\System.Web.WebPages.Razor.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\System.Web.Optimization.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\Newtonsoft.Json.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\Antlr3.Runtime.pdb
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\obj\Debug\rest.csprojAssemblyReference.cache
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\obj\Debug\rest.csproj.CopyComplete
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\obj\Debug\rest.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\rest\obj\Debug\rest.pdb

@@ -1,0 +1,38 @@
+d:\C#\Programming\C# practice\MVC\Library\Library\model\bin\Debug\model.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\model\bin\Debug\model.pdb
+d:\C#\Programming\C# practice\MVC\Library\Library\model\bin\Debug\ServiceStack.Common.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\model\bin\Debug\ServiceStack.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\model\bin\Debug\ServiceStack.Interfaces.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\model\bin\Debug\ServiceStack.OrmLite.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\model\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\model\bin\Debug\ServiceStack.Redis.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\model\bin\Debug\ServiceStack.ServiceInterface.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\model\bin\Debug\ServiceStack.Text.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\model\bin\Debug\ServiceStack.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\model\bin\Debug\ServiceStack.Common.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\model\bin\Debug\ServiceStack.Interfaces.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\model\bin\Debug\ServiceStack.Redis.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\model\bin\Debug\ServiceStack.Text.xml
+d:\C#\Programming\C# practice\MVC\Library\Library\model\obj\Debug\model.csprojAssemblyReference.cache
+d:\C#\Programming\C# practice\MVC\Library\Library\model\obj\Debug\model.csproj.CopyComplete
+d:\C#\Programming\C# practice\MVC\Library\Library\model\obj\Debug\model.dll
+d:\C#\Programming\C# practice\MVC\Library\Library\model\obj\Debug\model.pdb
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\bin\Debug\model.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\bin\Debug\model.pdb
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\bin\Debug\ServiceStack.Common.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\bin\Debug\ServiceStack.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\bin\Debug\ServiceStack.Interfaces.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\bin\Debug\ServiceStack.OrmLite.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\bin\Debug\ServiceStack.Redis.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\bin\Debug\ServiceStack.ServiceInterface.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\bin\Debug\ServiceStack.Text.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\bin\Debug\ServiceStack.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\bin\Debug\ServiceStack.Common.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\bin\Debug\ServiceStack.Interfaces.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\bin\Debug\ServiceStack.Redis.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\bin\Debug\ServiceStack.Text.xml
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\obj\Debug\model.csprojAssemblyReference.cache
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\obj\Debug\model.csproj.CopyComplete
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\obj\Debug\model.dll
+d:\C#\Programming\C# practice\MVC\First Project for Ivan\Library\model\obj\Debug\model.pdb
