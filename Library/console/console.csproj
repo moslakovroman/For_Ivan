@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ServiceStack" Version="3.9.71" />
+    <PackageReference Include="ServiceStack" Version="5.9.2" />
     <PackageReference Include="ServiceStack.Common" Version="3.9.71" />
     <PackageReference Include="ServiceStack.OrmLite.SqlServer" Version="3.9.71" />
     <PackageReference Include="ServiceStack.Redis" Version="3.9.71" />
